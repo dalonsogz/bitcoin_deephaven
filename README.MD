@@ -6,7 +6,7 @@ From the youtube tutorial '[Get Dynamic Bitcoin Data in REAL TIME with Python - 
 
 Adapted scripts to set up environment and run the Deephaven example application in a windows 10/11 environment.
 
-![Image](deephaven_snap_01.png)
+![Image](deephaven_snap_01.png "Deephaven example application")
 
 ### Install and run from command line:
 
