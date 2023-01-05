@@ -1,11 +1,6 @@
 # Personal and IDE files
 .idea/
 pyvenv.cfg
-Include/
-Lib/
-Scripts/
-keyboard_github.url
-keys/
 .DS_Store
 *.mkv
 
